@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helmet_detection_1</string>
+    <string name="upload">Upload</string>
+    <string name="predict">Predict</string>
+</resources>
