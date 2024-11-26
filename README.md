@@ -18,3 +18,7 @@ Mobile App: Android (Java/Kotlin)
 Backend API: FastAPI
 Deployment: Local and cloud-hosted FastAPI instance
 Version Control: Git, GitHub
+
+
+# API GITHUB LINK
+https://github.com/PritiyaxShukla/BIKE_HELMET_DETECTION
